@@ -1,4 +1,4 @@
 # MyUtils
 
-+ images to video
-+ LinkedList implement reference to *Core Java Volume I*
++ Python code for **images to video**
++ Java LinkedList implement reference to *Core Java Volume I*
